@@ -30,7 +30,7 @@ const ES = {
   "about.text":           "[Escribe aquí dos o tres frases sobre ti: qué estudias, qué te interesa dentro del desarrollo web y qué estás buscando ahora.]",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "[Ciudad], Colombia",
+  "about.valueLocation":  "Guamo, Colombia",
   "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
   "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
@@ -78,7 +78,7 @@ const ES = {
   "contact.emailLabel":    "Correo",
   "contact.linkedinValue": "[Tu perfil profesional]",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "Maicol Mendoza · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
