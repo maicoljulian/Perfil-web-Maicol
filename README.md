@@ -14,7 +14,7 @@ A public web page with six sections:
 | Section | What goes there |
 |---|---|
 | Home | Your name, your role, your links |
-| About | I study systems engineering because I'm passionate about technology and I like learning new things, but it's a tough major
+| About | I'm studying Systems Engineering because I'm passionate about technology and enjoy learning new things. Although it's a challenging degree, I'm motivated to keep learning and improving my skills.
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
