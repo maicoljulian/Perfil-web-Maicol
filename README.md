@@ -13,30 +13,12 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Hello! My name is Maicol.
-I am a Systems Engineering student who is interested in technology and software development. I enjoy learning new programming skills and building web projects. |
+| Home | Hello! My name is Maicol.I am a Systems Engineering student who is interested in technology and software development. I enjoy learning new programming skills and building web projects. |
 | About | I study Systems Engineering because I am interested in technology and software development. I enjoy creating web applications and learning how computer systems work. I am interested in programming, databases, web development, and new technologies. I want to learn more about backend development and improve my programming skills. I also want to gain experience by building useful and professional software projects.
-| Skills | HTML — I use HTML to create the structure of web pages.
-CSS — I use CSS to design responsive and attractive interfaces.
-JavaScript — I use JavaScript to add interaction and functionality to web applications.
-PHP — I use PHP to develop dynamic web applications and work with databases.
-MySQL — I use MySQL to store and manage application data.
-Professional Skills
-Teamwork — I work well with other people and share ideas.
-Communication — I communicate my ideas clearly and listen to other people.
-Problem-solving — I look for practical solutions when I have a technical problem. |
-| Resume |Education
-Systems Engineering Student
-I study Systems Engineering and learn about programming, databases, web development, and computer systems.
-Experience
-I build personal and academic web projects to practice my programming skills. I work with technologies such as HTML, CSS, JavaScript, PHP, MySQL, and Laravel. These projects help me understand how web applications work and improve my programming skills.|
-| Projects | EduControl
-EduControl is a web application for managing student information. It allows users to create, read, update, and delete student records. The project uses PHP, MySQL, HTML, CSS, and JavaScript.
-ReservaPro
-ReservaPro is a web application for managing reservations and appointments. It allows users to register reservations and manage services and schedules. The project uses PHP, MySQL, HTML, CSS, and JavaScript.
-Web Development Projects
-I also create small web projects to practice programming, database management, responsive design, and application logic. These projects help me learn new technologies and improve my development skills. |
-| Contact | How people can reach you |
+| Skills | HTML — I use HTML to create the structure of web pages. CSS — I use CSS to design responsive and attractive interfaces. JavaScript — I use JavaScript to add interaction and functionality to web applications. PHP — I use PHP to develop dynamic web applications and work with databases. MySQL — I use MySQL to store and manage application data. Professional Skills Teamwork — I work well with other people and share ideas. Communication — I communicate my ideas clearly and listen to other people. Problem-solving — I look for practical solutions when I have a technical problem. |
+| Resume |Education Systems Engineering Student I study Systems Engineering and learn about programming, databases, web development, and computer systems. Experience. I build personal and academic web projects to practice my programming skills. I work with technologies such as HTML, CSS, JavaScript, PHP, MySQL, and Laravel. These projects help me understand how web applications work and improve my programming skills.|
+| Projects | EduControl EduControl is a web application for managing student information. It allows users to create, read, update, and delete student records. The project uses PHP, MySQL, HTML, CSS, and JavaScript. ReservaPro ReservaPro is a web application for managing reservations and appointments. It allows users to register reservations and manage services and schedules. The project uses PHP, MySQL, HTML, CSS, and JavaScript. Web Development Projects I also create small web projects to practice programming, database management, responsive design, and application logic. These projects help me learn new technologies and improve my development skills. |
+| Contact | githum.com/maicoljulian |
 
 ---
 
